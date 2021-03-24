@@ -14,6 +14,10 @@
     "onCommand:vs-extension-dummy-email-generator.generate"
   ],
   "main": "./out/extension.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/narukami894/vs-extension-dummy-email-generator.git"
+  },
   "contributes": {
     "commands": [
       {
